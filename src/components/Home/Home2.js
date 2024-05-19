@@ -18,12 +18,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm a Front-End Engineer with an expreience of 3+ years,
-              currently working with awesome folks at Mobcoder.
+              I'm a Front-End Engineer with an expreience of 5+ years,
+              currently working with awesome folks at Sears Holdings India.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML, CSS, Javascript and React.js. </b>
+                <b className="purple"> HTML, CSS, JavaScript, TypeScript, React.js and Next.js </b>
               </i>
               <br />
               <br />

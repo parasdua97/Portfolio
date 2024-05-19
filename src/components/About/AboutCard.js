@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Paras Dua </span>
             from <span className="purple"> Jalandhar, India.</span>
-            <br />I am a front-end developer, currently working with Mobcoder.
+            <br />I am a JavaScript developer, currently working with Sears Holdings India.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

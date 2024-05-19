@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import covid from "../../Assets/Projects/covid.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import stolt from "../../Assets/Projects/stolt.png";
-import savage from "../../Assets/Projects/savage.png";
+import shs from "../../Assets/Projects/shs.png";
 import arpong from "../../Assets/Projects/arPong.png";
 import medpiper from "../../Assets/Projects/medpiper.png";
 
@@ -23,11 +23,11 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={savage}
+              imgPath={shs}
               isBlog={false}
-              title="Savage"
-              description="Savage is a product focusing on women's health. This project is built with React.js, TypeScript and Tailwind Css. I've also made significant contributions in the admin panel for Savage that is used by their experts and coaches."
-              demoLink="https://www.savage.club/"
+              title="Sears Home Services"
+              description="When it comes to your home, the house experts at Sears want you to know you do not have to do it alone. Sears Home Services delivers solutions for your entire home, from appliance care to interior and exterior upgrades for your home. You can trust our experts to help take care of your house so you can enjoy your home. This project is built with Next.js, TypeScript and Tailwind CSS."
+              demoLink="https://www.searshomeservices.com/"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Stolt-Nielsen"
               description="Stolt-Nielsen Limited provides transportation and storage for liquids, notably specialty and bulk liquid chemicals. It also has an aquaculture division that grows turbot and other fish and fish products. This project is built with React.js"
-              demoLink="https://www.stolt-nielsen.com/"              
+              demoLink="https://www.stolt-nielsen.com/"
             />
           </Col>
 
@@ -58,7 +58,6 @@ function Projects() {
               title="Covid Tracker"
               description="A web app that shows number of covid patients in different geographical locations."
               ghLink="https://github.com/Danknight97/Covid-Tracker"
-              demoLink="https://covid19statswebsite.netlify.app/"
             />
           </Col>
 
@@ -69,7 +68,6 @@ function Projects() {
               title="AR Pong"
               description="This is an android game developed in Unity Game Engine using C# and Vuforia api for implementing augmented reality with a marker based environment for the pong game"
               ghLink="https://github.com/Danknight97/AR-Pong"
-              demoLink="https://play.google.com/store/apps/details?id=black_muffin.muffin&hl=en&gl=US"
             />
           </Col>
 
