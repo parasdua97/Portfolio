@@ -26,7 +26,7 @@ function Projects() {
               imgPath={shs}
               isBlog={false}
               title="Sears Home Services"
-              description="When it comes to your home, the house experts at Sears want you to know you do not have to do it alone. Sears Home Services delivers solutions for your entire home, from appliance care to interior and exterior upgrades for your home. You can trust our experts to help take care of your house so you can enjoy your home. This project is built with Next.js, TypeScript and Tailwind CSS."
+              description="Sears Home Services delivers solutions for your entire home, from appliance care to interior and exterior upgrades for your home. This project is built with Next.js, TypeScript, GraphQL and Tailwind CSS."
               demoLink="https://www.searshomeservices.com/"
             />
           </Col>
@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Covid Tracker"
               description="A web app that shows number of covid patients in different geographical locations."
-              ghLink="https://github.com/Danknight97/Covid-Tracker"
+              ghLink="https://github.com/parasdua97/Covid-Tracker"
             />
           </Col>
 
@@ -67,7 +67,7 @@ function Projects() {
               isBlog={false}
               title="AR Pong"
               description="This is an android game developed in Unity Game Engine using C# and Vuforia api for implementing augmented reality with a marker based environment for the pong game"
-              ghLink="https://github.com/Danknight97/AR-Pong"
+              ghLink="https://github.com/parasdua97/AR-Pong"
             />
           </Col>
 
@@ -77,7 +77,7 @@ function Projects() {
               isBlog={false}
               title="Emotion Recognizer"
               description="This is an android application developed in android studio using Java and Microsoft cognitive services. I developed this project when I was in college."
-              ghLink="https://github.com/Danknight97/EmotionRecognizer"
+              ghLink="https://github.com/parasdua97/EmotionRecognizer"
             />
           </Col>
         </Row>

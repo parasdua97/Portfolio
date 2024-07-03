@@ -2,10 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-  AiOutlineTwitter
-} from "react-icons/ai";
+import { AiFillGithub, AiOutlineTwitter } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
@@ -18,12 +15,19 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I'm a Front-End Engineer with an expreience of 5+ years,
-              currently working with awesome folks at Sears Holdings India.
+              I'm a Front-End Engineer with over 5 years of experience in
+              implementing user-friendly amd responsive web interfaces. I'm
+              passionate about creating efficient, scalable, and maintainable
+              code. I've the ability to collaborate with back-end developers,
+              designers and product managers to deliver high-quality web
+              applications.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> HTML, CSS, JavaScript, TypeScript, React.js and Next.js </b>
+                <b className="purple">
+                  {" "}
+                  HTML, CSS, JavaScript, TypeScript, React and Next.js{" "}
+                </b>
               </i>
               <br />
               <br />
@@ -31,14 +35,12 @@ function Home2() {
               <i>
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
-                <b className="purple">
-                  Augmented Reality and Virtual Reality.
-                </b>
+                <b className="purple">Augmented Reality and Virtual Reality.</b>
               </i>
               <br />
               <br />
-              Whenever possible, I utilize my passion as a fuel for developing products
-              with
+              Whenever possible, I utilize my passion as a fuel for developing
+              products with
               <i>
                 <b className="purple">
                   {" "}
@@ -66,7 +68,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/Danknight97"
+                  href="https://github.com/parasdua97"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
